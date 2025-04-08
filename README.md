@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Ride802
-- 👀 I’m interested in biochemistry, music, and sports 
-- 🌱 I’m currently learning data science
-- 📫 How to reach me: mattgregg024@gmail.com
+- MA - VT - UT -
+B.S. Biochemistry working towards Master of Computer Science
 
 <!---
 Ride802/Ride802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
